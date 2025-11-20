@@ -108,6 +108,9 @@ agenda-web/
 └── package.json
 ```
 
+# Deploy da aplicação
+  ### 🔗 https://agenda-web-pink.vercel.app/
+  
 ## 🌳 Local do .env (Backend)
 
 O arquivo .env deve ser criado na raiz da pasta agenda-backend/, no mesmo nível de:
@@ -265,6 +268,6 @@ Frontend disponível em: http://localhost:5173
 
 #### 🔗 GitHub: https://github.com/Kayanbarreto
 
-#### 🔗 LinkedIn: [https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/kayan-barreto-39a330265/)
+#### 🔗 LinkedIn: https://www.linkedin.com/in/kayan-barreto-39a330265/
 
 #### 📧 Email: kayan.marques.barreto@ccc.ufcg.edu.br
